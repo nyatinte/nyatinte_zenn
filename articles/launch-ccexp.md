@@ -1,5 +1,5 @@
 ---
-title: "散らばったClaude Codeの設定ファイルを一元管理するCLIツール ccexp を作りました"
+title: "散らばったClaude Codeの設定ファイルを一元管理するCLIツール ccexp を作った"
 emoji: "🔎"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: [claudecode, claude, tool, oss]

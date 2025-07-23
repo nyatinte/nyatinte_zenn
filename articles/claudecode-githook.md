@@ -11,7 +11,7 @@ published: false
 
 最近このポストを見てClaude Code環境で`CLAUDECODE=1`という環境変数があることを知りました。
 
-<https://x.com/r_masseater/status/1947860128944029745?s=46&t=zvUyvngihVg12ojk_zLm2A>
+https://x.com/r_masseater/status/1947860128944029745?s=46&t=zvUyvngihVg12ojk_zLm2A
 
 そこでlefthookをClaude Codeでのコミット時のみ有効化できるようになったのでシェアします。
 
@@ -55,7 +55,7 @@ pre-commit:
 
 skip条件として`test "$CLAUDECODE" != 1`を使用しています。これにより、`CLAUDECODE`環境変数が設定されていない場合（つまり、Claude Code以外の環境）ではhooksがスキップされます。
 
-<https://lefthook.dev/configuration/skip.html?highlight=test#skip>
+https://lefthook.dev/configuration/skip.html?highlight=test#skip
 
 ## まとめ
 

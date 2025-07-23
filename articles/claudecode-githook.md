@@ -3,7 +3,7 @@ title: "Claude Code環境でのみGit hooksを実行するlefthook設定"
 emoji: "🪝"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [claudecode, lefthook, agenticcoding, git, githooks]
-published: false
+published: true
 ---
 
 
@@ -65,4 +65,4 @@ AI駆動開発では自動修正を積極的に適用し、手動開発では軽
 
 ---
 
-**謝辞**: Claude Code環境変数の存在を教えてくださった[@r_masseater](https://x.com/r_masseater)さん、ありがとうございます！
+**謝辞**: `CLAUDECODE`環境変数の存在を教えてくださった[@r_masseater](https://x.com/r_masseater)さん、ありがとうございます！
